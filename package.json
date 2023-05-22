@@ -1,0 +1,22 @@
+{
+  "name": "express-hello-world",
+  "version": "9.9.9",
+  "description": "bbr",
+  "main": "bbt.js",
+  "repository": "https://github.com/myselfow/bbr",
+  "author": "myselfow",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node bbt.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "http-proxy-middleware": "^2.0.6",
+    "request": "^2.88.2",
+    "basic-auth": "^2.0.1"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
